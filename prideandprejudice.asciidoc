@@ -1,8 +1,6 @@
-
-
 = PRIDE AND PREJUDICE
-By Jane Austen
-
+Jane Austen
+:TOC:
 
 == Chapter 1
 
