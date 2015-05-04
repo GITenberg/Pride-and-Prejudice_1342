@@ -25,5 +25,5 @@ deploy:
     secure: Ztt49Ck+WR4BIVt9CKZDV9BKjTz8Q59fGg5JSD4I5LtQDn2W7ZRTvsBBN0OuWYRCqKAKVqj+njWnBd/xAVn30S+VtjY0yhYIM1iF5OiqbEEmjaCOKp9cnuWPjBXDOiUS87hTeoSEp7UCrR6/2p608gNF4c916q7M9D2/0aJ5Uro=
   file: Pride-and-Prejudice.epub
   on:
-    repo: sethwoodworth/Pride-and-Prejudice_1661
+    repo: sethwoodworth/Pride-and-Prejudice_1342
 
