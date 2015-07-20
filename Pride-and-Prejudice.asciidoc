@@ -1,8 +1,28 @@
+= Pride and Prejudice
+Jane Austen
+v0.0.4
+:TOC:
 
+[colophon]
+== Copyright
 
-= PRIDE AND PREJUDICE
-By Jane Austen
+This edition of _Pride and Prejudice_ is maintained, archived, and curated as part of
+the GITENBERG PROJECT.
 
+This work is in the public domain.
+
+If you find any issues with this work, please report them at
+https://github.com/GITenberg/Pride-and-Prejudice_1342/issues
+
++
+
+Cover provided by Recovering the Classics
+
+Artist: Kathryn Delaney, (C) 2013
+
+Made available under a Creative Commons Attribution-NonCommercial 4.0 license
+
+https://creativecommons.org/licenses/by-nc/4.0/
 
 == Chapter 1
 

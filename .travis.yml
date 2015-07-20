@@ -1,0 +1,27 @@
+language: ruby
+sudo: required
+before_install:
+- gem install asciidoctor tilt
+- sudo apt-get install xsltproc
+script:
+- git clone https://github.com/sethwoodworth/asciidoctor-htmlbook.git
+- asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/
+  -d book Pride-and-Prejudice.asciidoc -o Pride-and-Prejudice.html
+- git clone https://github.com/sethwoodworth/HTMLBook
+- xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl
+  Pride-and-Prejudice.html
+- cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
+- cp cover.png OEBPS/cover.png
+- zip -rX Pride-and-Prejudice.epub mimetype
+- zip -rX Pride-and-Prejudice.epub OEBPS/ META-INF/
+branches:
+  only:
+  - master
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: Ln3gjdzcKcvbZYY74Nw2S+7ANT7jx+3eWRknEzUyRWTDH+AJ64yOzSgp4JbLBLYpgzyq8f0WxtSY3mHcFFyG4XCjJv3WaFe6JXbcw/5we9lyftYprI66wG4t9LF6jf6/15cFMoAmg8tGBdGYwvEatUNDCEv5AaAC5NPbemqx2HxHjHat8Z3awsZu3JG1cmK4iv/cKqJoo/zBMSDLxyzps4m9mfhb+wd3csa6ydJAlSXFEx01OufNNcZ51wTjBmhvb4m202tIPcCgd/XPsjlWj2b0d49ZetRrFm6BEI4Az/14RhkM8FJkAaDQ/gs7+7vKC1zgzMWe3fA6PWTCI3dyx/StzS2BkwpPyFxDwN1M56386dJfAEFlbUZfSRhQUP17Zq9HDaOi7a4MBrxCB+L3hSGglGwsHVUKYt5aR4QTx52GnspZR1iukJRG1iPBmbG5Drlcv4Xse8hdjHy0hZdNwAMrFU0Y9uu1cb4tRRiGRjSKU7MV29QAVDh/oMPhANjOcdAZqI3gKl9Ak1MCWxZR60hRMmsnhf7VOPsQxPShXD80SrbPKKFcclNHe+/0Q9RGtzPa7U9ojFd2Hm9E46ae/If4+j1odcP6P73XeuUnLYTOOVwakU6wPcMdSn/8s85HgL7AXPrHMSe8WHh/TaYDgpiXTdeF/xvbzLgsSa446Zk=
+  file: Pride-and-Prejudice.epub
+  on:
+    repo: sethwoodworth/Pride-and-Prejudice_1342
