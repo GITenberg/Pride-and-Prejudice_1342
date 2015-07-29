@@ -1,0 +1,31 @@
+_repo: Pride-and-Prejudice_1342
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+gutenberg_bookshelf:
+- Harvard Classics
+- Best Books Ever Listings
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Social classes -- Fiction'
+- '!lcsh:Sisters -- Fiction'
+- '!lcsh:Domestic fiction'
+- '!lcsh:Young women -- Fiction'
+- '!lcsh:Love stories'
+- '!lcc:PR'
+- '!lcsh:England -- Fiction'
+- '!lcsh:Courtship -- Fiction'
+title: Pride and Prejudice
+url: http://www.gutenberg.org/ebooks/1342
