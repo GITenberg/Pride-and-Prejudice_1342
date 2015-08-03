@@ -25,13 +25,13 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:England -- Fiction'
-- '!lcc:PR'
-- '!lcsh:Social classes -- Fiction'
-- '!lcsh:Domestic fiction'
-- '!lcsh:Young women -- Fiction'
-- '!lcsh:Love stories'
-- '!lcsh:Courtship -- Fiction'
-- '!lcsh:Sisters -- Fiction'
+- '!lcsh: Love stories'
+- '!lcc: PR'
+- '!lcsh: Domestic fiction'
+- '!lcsh: Young women -- Fiction'
+- '!lcsh: England -- Fiction'
+- '!lcsh: Social classes -- Fiction'
+- '!lcsh: Courtship -- Fiction'
+- '!lcsh: Sisters -- Fiction'
 title: Pride and Prejudice
 url: http://www.gutenberg.org/ebooks/1342
