@@ -1,5 +1,5 @@
 _repo: Pride-and-Prejudice_1342
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Tim Daniel, 2015
   cover_type: original
@@ -35,5 +35,6 @@ subjects:
 - '!lcsh: Social classes -- Fiction'
 - '!lcsh: Courtship -- Fiction'
 - '!lcsh: Sisters -- Fiction'
+- GITenberg
 title: Pride and Prejudice
 url: http://www.gutenberg.org/ebooks/1342
