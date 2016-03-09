@@ -21,13 +21,15 @@ script:
 - /usr/bin/python asciidoctor-htmlbook/gitberg-machine/machine.py -o . -m metadata.yaml book.html
 - xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl book.html
 - cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
-- cp cover.jpg OEBPS/cover.jpg
+- if [ -e cover.jpg ]; then cp cover.jpg OEBPS/cover.jpg; fi
 # look for first images directory and one found, copy over to ./OEBPS
 - find . -name images -type d | head -n 1 | xargs -I {} mv {} ./OEBPS/
 - zip -rX book.epub mimetype
 - zip -rX book.epub OEBPS/ META-INF/
 - if test -d "OEBPS/images/"; then zip -rX book.epub OEBPS/images/ ;fi
 - mv book.epub Pride-and-Prejudice.epub
+- ebook-convert Pride-and-Prejudice.epub Pride-and-Prejudice.mobi
+- xvfb-run ebook-convert Pride-and-Prejudice.epub Pride-and-Prejudice.pdf
 branches:
   only:
   - master
@@ -43,10 +45,15 @@ deploy:
   provider: releases
   api_key:
     secure: WaIbG81kHcakqqLJmkmpfK2fAT32If+MKsmvUTr10NYcCVOxzQAiNKfTc3jGWi+bW6JFrhGkiFjbR1QnowJk3usUvGXbw9+2RyOnlVPt0pkcu0c6WBtZM1vJgiaRCo09iOibImkNweNM49/+T8pu9ohnQ+Mb8KXvapYoFI364vGy8OWav/tVZnagd2kiV4J7aovzwkWNPVxvgy0PqSBneTvvN2VI4tWbHY9gcMOkV0eGMm20PWvM2xBWjIFWX5XIi99CAmLmE5fsPOXf2h+/64zRgNEbKK6aax80UMLW8A7dpFgfmhgI/ce36CAjLFSbts9jSRm/FKRLWWpCvTZ6gochz+tAMIsLsqTPybRyKErln7ybhkRf1uBd8zlJssrVzrBnYKRhvrRh/pFJ3+doBxqEqjNc0jBfuojKXO4kC9w4H0ZSXWl7hzMYYBN1tWuQbnUtTizHrmN9qKKErsf6QBCny3SV8k7PTrjBsHneqOzuc1MN6bLSY6sPhtYO9uQf0xfCvxksyQ/Iakm7iQE2iq2sosg+yMjlYYymzlm0jrO/uf6D2eV97JYv2UpniIkn4wJj2Sfb/+f1a5tSBbzq+v/j1qS24mpwIhe9Y86wFGsw8onsK+xWE0PCnNAdjLjCoeKzTUDV2ZHSqzmAsrITsVLDFOAAr48nxRdiZzYNknU=
-  file: Pride-and-Prejudice.epub
+  file:
+    - Pride-and-Prejudice.epub
+    - Pride-and-Prejudice.mobi
+    - Pride-and-Prejudice.pdf
   "on":
     repo: GITenberg/Pride-and-Prejudice_1342
 addons:
   apt:
     packages:
     - xsltproc
+    - xvfb
+    - calibre
