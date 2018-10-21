@@ -12,7 +12,7 @@ Author: Jane Austen
 
 Posting Date: August 26, 2008 [EBook #1342]
 Release Date: June, 1998
-[Last updated: August 11, 2011]
+Last updated: February 15, 2015]
 
 Language: English
 
@@ -204,7 +204,7 @@ myself; how can you be so teasing?"
 "I honour your circumspection. A fortnight's acquaintance is certainly
 very little. One cannot know what a man really is by the end of a
 fortnight. But if _we_ do not venture somebody else will; and after all,
-Mrs. Long and her daughters must stand their chance; and, therefore, as
+Mrs. Long and her neices must stand their chance; and, therefore, as
 she will think it an act of kindness, if you decline the office, I will
 take it on myself."
 
@@ -2889,7 +2889,7 @@ for fortune and figure."
 
 The whist party soon afterwards breaking up, the players gathered round
 the other table and Mr. Collins took his station between his cousin
-Elizabeth and Mrs. Phillips. The usual inquiries as to his success was
+Elizabeth and Mrs. Phillips. The usual inquiries as to his success were
 made by the latter. It had not been very great; he had lost every
 point; but when Mrs. Phillips began to express her concern thereupon,
 he assured her with much earnest gravity that it was not of the least
@@ -3025,7 +3025,7 @@ female of the family. Mrs. Bennet chose to consider it as given in
 compliment to her eldest daughter, and was particularly flattered
 by receiving the invitation from Mr. Bingley himself, instead of a
 ceremonious card. Jane pictured to herself a happy evening in the
-society of her two friends, and the attentions of her brother; and
+society of her two friends, and the attentions of their brother; and
 Elizabeth thought with pleasure of dancing a great deal with Mr.
 Wickham, and of seeing a confirmation of everything in Mr. Darcy's look
 and behaviour. The happiness anticipated by Catherine and Lydia depended
@@ -3292,7 +3292,7 @@ opportunity."
 "I would by no means suspend any pleasure of yours," he coldly replied.
 She said no more, and they went down the other dance and parted in
 silence; and on each side dissatisfied, though not to an equal degree,
-for in Darcy's breast there was a tolerable powerful feeling towards
+for in Darcy's breast there was a tolerably powerful feeling towards
 her, which soon procured her pardon, and directed all his anger against
 another.
 
@@ -3328,7 +3328,7 @@ assure you, he informed me himself."
 "Insolent girl!" said Elizabeth to herself. "You are much mistaken
 if you expect to influence me by such a paltry attack as this. I see
 nothing in it but your own wilful ignorance and the malice of Mr.
-Darcy." She then sought her eldest sister, who has undertaken to make
+Darcy." She then sought her eldest sister, who had undertaken to make
 inquiries on the same subject of Bingley. Jane met her with a smile of
 such sweet complacency, a glow of such happy expression, as sufficiently
 marked how well she was satisfied with the occurrences of the evening.
@@ -3768,7 +3768,7 @@ to convince you of its being one."
 "You must give me leave to flatter myself, my dear cousin, that your
 refusal of my addresses is merely words of course. My reasons for
 believing it are briefly these: It does not appear to me that my hand is
-unworthy your acceptance, or that the establishment I can offer would
+unworthy of your acceptance, or that the establishment I can offer would
 be any other than highly desirable. My situation in life, my connections
 with the family of de Bourgh, and my relationship to your own, are
 circumstances highly in my favour; and you should take it into further
@@ -3811,7 +3811,7 @@ successful love; for Mrs. Bennet, having dawdled about in the vestibule
 to watch for the end of the conference, no sooner saw Elizabeth open
 the door and with quick step pass her towards the staircase, than she
 entered the breakfast-room, and congratulated both him and herself in
-warm terms on the happy prospect or their nearer connection. Mr. Collins
+warm terms on the happy prospect of their nearer connection. Mr. Collins
 received and returned these felicitations with equal pleasure, and then
 proceeded to relate the particulars of their interview, with the result
 of which he trusted he had every reason to be satisfied, since the
@@ -5491,7 +5491,7 @@ settled it with her husband that the office of introduction should
 be hers, it was performed in a proper manner, without any of those
 apologies and thanks which he would have thought necessary.
 
-In spite of having been at St. James's Sir William was so completely
+In spite of having been at St. James's, Sir William was so completely
 awed by the grandeur surrounding him, that he had but just courage
 enough to make a very low bow, and take his seat without saying a word;
 and his daughter, frightened almost out of her senses, sat on the edge
@@ -5636,7 +5636,7 @@ much in company. But really, ma'am, I think it would be very hard upon
 younger sisters, that they should not have their share of society and
 amusement, because the elder may not have the means or inclination to
 marry early. The last-born has as good a right to the pleasures of youth
-at the first. And to be kept back on _such_ a motive! I think it would
+as the first. And to be kept back on _such_ a motive! I think it would
 not be very likely to promote sisterly affection or delicacy of mind."
 
 "Upon my word," said her ladyship, "you give your opinion very decidedly
@@ -6097,7 +6097,7 @@ much to anybody, went away.
 gone. "My dear, Eliza, he must be in love with you, or he would never
 have called us in this familiar way."
 
-But when Elizabeth told of his silence; it did not seem very likely,
+But when Elizabeth told of his silence, it did not seem very likely,
 even to Charlotte's wishes, to be the case; and after various
 conjectures, they could at last only suppose his visit to proceed from
 the difficulty of finding anything to do, which was the more probable
@@ -7633,7 +7633,7 @@ housekeeping, I dare say."
 
 "No, nothing at all."
 
-"A great deal of good management, depend upon it. Yes, yes. _they_ will
+"A great deal of good management, depend upon it. Yes, yes, _they_ will
 take care not to outrun their income. _They_ will never be distressed
 for money. Well, much good may it do them! And so, I suppose, they often
 talk of having Longbourn when your father is dead. They look upon it as
@@ -7803,7 +7803,7 @@ home.
 
 Elizabeth was now to see Mr. Wickham for the last time. Having been
 frequently in company with him since her return, agitation was pretty
-well over; the agitations of formal partiality entirely so. She had even
+well over; the agitations of former partiality entirely so. She had even
 learnt to detect, in the very gentleness which had first delighted
 her, an affectation and a sameness to disgust and weary. In his present
 behaviour to herself, moreover, she had a fresh source of displeasure,
@@ -8907,7 +8907,7 @@ was possible, except to Elizabeth; and from all Bingley's connections
 her brother was particularly anxious to conceal it, from the very
 wish which Elizabeth had long ago attributed to him, of their becoming
 hereafter her own. He had certainly formed such a plan, and without
-meaning that it should effect his endeavour to separate him from Miss
+meaning that it should affect his endeavour to separate him from Miss
 Bennet, it is probable that it might add something to his lively concern
 for the welfare of his friend.
 
@@ -9233,7 +9233,7 @@ and Mrs. Gardiner had hurried back in alarm, supposing by the servant's
 account that their niece was taken suddenly ill; but satisfying them
 instantly on that head, she eagerly communicated the cause of their
 summons, reading the two letters aloud, and dwelling on the postscript
-of the last with trembling energy, though Lydia had never been a
+of the last with trembling energy.--Though Lydia had never been a
 favourite with them, Mr. and Mrs. Gardiner could not but be deeply
 afflicted. Not Lydia only, but all were concerned in it; and after the
 first exclamations of surprise and horror, Mr. Gardiner promised every
@@ -10024,7 +10024,7 @@ sister. "My dear father, I congratulate you."
 
 "No; but it must be done soon."
 
-Most earnestly did she then entreaty him to lose no more time before he
+Most earnestly did she then entreat him to lose no more time before he
 wrote.
 
 "Oh! my dear father," she cried, "come back and write immediately.
@@ -10368,7 +10368,7 @@ and all will be completed in a week. They will then join his regiment,
 unless they are first invited to Longbourn; and I understand from Mrs.
 Gardiner, that my niece is very desirous of seeing you all before she
 leaves the South. She is well, and begs to be dutifully remembered to
-you and your mother.--Yours, etc.,
+you and her mother.--Yours, etc.,
 
 "E. GARDINER."
 
@@ -12145,7 +12145,7 @@ her elder sister has resigned it, and the chosen partner of her fate may
 be reasonably looked up to as one of the most illustrious personages in
 this land.'
 
-"Can you possibly guess, Lizzy, who is meant by this?" 'This young
+"Can you possibly guess, Lizzy, who is meant by this? 'This young
 gentleman is blessed, in a peculiar way, with every thing the heart of
 mortal can most desire,--splendid property, noble kindred, and extensive
 patronage. Yet in spite of all these temptations, let me warn my cousin
